@@ -1,0 +1,4 @@
+Day 2:Javascript
+const let var
+function
+return keyword

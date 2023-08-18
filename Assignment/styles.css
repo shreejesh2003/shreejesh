@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  nav {
+    background-color: #333;
+    color: white;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin: 0;
+  }
+  
+  nav a {
+    display: block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+  }
+  
+  nav a:hover {
+    background-color: #555;
+  }
+  
+
+  @media (max-width: 768px) {
+    nav ul {
+      flex-direction: column;
+    }
+  
+    nav li {
+      margin: 0;
+    }
+  }
+
+.logo {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  margin: 0;
+  padding: 10px 20px;
+  color: white;
+}
+
+@font-face {
+   font-family: 'Roboto'; 
+  
+  font-weight: bold;
+  font-style: "Bebas Neue";
+}
+  

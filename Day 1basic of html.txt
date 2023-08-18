@@ -1,0 +1,22 @@
+Day 1:basic of html
+rules,tags 
+<a href:>
+paths
+table
+list
+inline elmenets occupied in row
+selectors
+styling html
+inline extrenal cssfile embedded css 
+<span>to give additoinal features
+<form action="" method=>:way of taking user input
+<input> <lable for=""></lable>
+<button type="submit">
+responsive design
+<select>
+<textArea>
+css selectors
+color:rgb alpha
+flex box
+justify-content
+flex-wrap:
