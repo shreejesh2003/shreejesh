@@ -1,0 +1,6 @@
+Day4:
+Javascript basics
+classes and objects
+methods for array in js
+var date=new date
+error handling in js
